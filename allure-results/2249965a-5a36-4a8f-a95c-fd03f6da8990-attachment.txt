@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Product']\"}\n  (Session info: chrome=116.0.5845.141)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF7C25A52A2+57122]\n\t(No symbol) [0x00007FF7C251EA92]\n\t(No symbol) [0x00007FF7C23EE3AB]\n\t(No symbol) [0x00007FF7C2427D3E]\n\t(No symbol) [0x00007FF7C2427E2C]\n\t(No symbol) [0x00007FF7C2460B67]\n\t(No symbol) [0x00007FF7C244701F]\n\t(No symbol) [0x00007FF7C245EB82]\n\t(No symbol) [0x00007FF7C2446DB3]\n\t(No symbol) [0x00007FF7C241D2B1]\n\t(No symbol) [0x00007FF7C241E494]\n\tGetHandleVerifier [0x00007FF7C284EF82+2849794]\n\tGetHandleVerifier [0x00007FF7C28A1D24+3189156]\n\tGetHandleVerifier [0x00007FF7C289ACAF+3160367]\n\tGetHandleVerifier [0x00007FF7C2636D06+653702]\n\t(No symbol) [0x00007FF7C252A208]\n\t(No symbol) [0x00007FF7C25262C4]\n\t(No symbol) [0x00007FF7C25263F6]\n\t(No symbol) [0x00007FF7C25167A3]\n\tBaseThreadInitThunk [0x00007FF9362026AD+29]\n\tRtlUserThreadStart [0x00007FF93840AA68+40]\n"
+}

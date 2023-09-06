@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//yt-formatted-string[contains(text(),'Coldplay - Hymn For The Weekend (Official Video)')]\"}\n  (Session info: chrome=116.0.5845.141)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF6582A52A2+57122]\n\t(No symbol) [0x00007FF65821EA92]\n\t(No symbol) [0x00007FF6580EE3AB]\n\t(No symbol) [0x00007FF658127D3E]\n\t(No symbol) [0x00007FF658127E2C]\n\t(No symbol) [0x00007FF658160B67]\n\t(No symbol) [0x00007FF65814701F]\n\t(No symbol) [0x00007FF65815EB82]\n\t(No symbol) [0x00007FF658146DB3]\n\t(No symbol) [0x00007FF65811D2B1]\n\t(No symbol) [0x00007FF65811E494]\n\tGetHandleVerifier [0x00007FF65854EF82+2849794]\n\tGetHandleVerifier [0x00007FF6585A1D24+3189156]\n\tGetHandleVerifier [0x00007FF65859ACAF+3160367]\n\tGetHandleVerifier [0x00007FF658336D06+653702]\n\t(No symbol) [0x00007FF65822A208]\n\t(No symbol) [0x00007FF6582262C4]\n\t(No symbol) [0x00007FF6582263F6]\n\t(No symbol) [0x00007FF6582167A3]\n\tBaseThreadInitThunk [0x00007FF9362026AD+29]\n\tRtlUserThreadStart [0x00007FF93840AA68+40]\n"
+}
